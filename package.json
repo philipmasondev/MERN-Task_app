@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "name": "mern-task_app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node backend/server.js",
+    "backend": "node backend/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/philipmasondev/MERN-Task_app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/philipmasondev/MERN-Task_app/issues"
+  },
+  "homepage": "https://github.com/philipmasondev/MERN-Task_app#readme",
+  "description": ""
+}
